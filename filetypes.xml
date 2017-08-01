@@ -5,6 +5,7 @@
       <mapping pattern="question.csv" type="Native" />
       <mapping pattern="question" type="PLAIN_TEXT" />
       <mapping pattern="added_answer_animal" type="PLAIN_TEXT" />
+      <mapping pattern="service_log" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
